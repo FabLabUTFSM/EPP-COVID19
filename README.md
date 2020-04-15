@@ -135,3 +135,9 @@ para ambos modelos, y distribuciones para las maquinas presentes en Fab Lab UTFS
 **Importante**: Todos estos archivos fueron desarrollados para planchas de acrilico con un espesor de 5 mm. 
 
 ## Ensamble
+
+### Micas 
+
+No se que poner aqui.... jamas las he armado... Ayuda 
+
+<img src="Imagenes/guardar.png "  width="300" >
