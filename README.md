@@ -59,15 +59,38 @@ Este modelo esta basado en el trabajo de [Prusa](https://www.prusaprinters.org/p
 
 #### Fabricación
 
+
+
 Se recomienda la fabricacion por torres (ver imagen), con el fin de poder hacer el proceso mas eficiente. En la carpeta [Impresion 3D](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivos%20Impresion%203D) encontraras los gcode para hacer torres que can desde 1 a 40 unidades, con tiempos de impresion que van desde 1 a 30 horas. 
 
-En caso de que el usuario tenga otra maquina, en la misma carpeta podran encontrar los .stl 
+<img src="Imagenes/torre3D_2.jpeg"  height="400" >  
 
-<img src="Imagenes/torre3D_2.jpeg"  height="400" >    
+En caso de que el usuario tenga otra maquina, en la misma carpeta podran encontrar los .stl para generar sus propios gcode.   
 
 ##### Parametros claves
 
-
+<table>
+  <tr>
+    <td>Altura de capa</td>
+    <td>0.25 </td>
+  </tr>
+<tr>
+     <td> Perímetros </td>
+    <td>3 </td>
+</tr>
+  <tr>
+     <td>Capas superior e inferior </td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Velocidad de impresión</td>
+    <td>80 [mm/s]</td>
+</tr>
+<tr>
+    <td>Brim </td>
+    <td>off</td>
+</tr>
+</table> 
 
 ### Corte Laser
 
