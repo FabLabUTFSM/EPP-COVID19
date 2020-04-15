@@ -62,6 +62,8 @@ Todos los Gcodes estan fueron hechos para una [Ultimaker 3 Extendend](https://ul
 
 #### Fabricación
 
+En caso de que el usario no tenga la misma maquina, se entregan los archivos .stl para que el usuario pueda contruir sus propios Gcode, a continuacion se presentan los parametros calves. 
+
 ##### Parametros claves
 
 <table>
