@@ -32,6 +32,6 @@ Estos modelos se pueden encontrar en la carpeta [impresion 3D](lala) en este mis
 
 Este modelo fue desarrollado por  [Javier de la Cerda](https://www.instagram.com/javier.mkr/) y [Octavio Jaques](https://www.instagram.com/octaviojaques/). 
 
-<img src="Imagenes/corteLaser.jpeg"  height="400" > <img src="Imagenes/corteLaser_2.jpeg"  height="400" >
+<img src="Imagenes/CorteLaser.jpeg"  height="400" > <img src="Imagenes/CorteLaser_2.jpeg"  height="400" >
 
 Aqui le enseñare a Javier y a la Pía a documentar, así le pierde el miedo a la programación y el lab se pone mas pro jajaja
