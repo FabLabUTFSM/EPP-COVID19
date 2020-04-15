@@ -51,7 +51,7 @@ Se han desarrollado dos modelos con el fin de poder trabajar de forma paralela c
 
 ### Impresión 3D
 
-<img src="Imagenes/torre3D_2.jpeg"  width="600" > 
+<img src="Imagenes/torre3D.jpeg"  width="600" > 
 
 Este modelo está basado en el trabajo de [Prusa](https://www.prusaprinters.org/prints/25857-prusa-face-shield), y fue modificado por [Javier de la Cerda](https://www.instagram.com/javier.mkr/). 
 
