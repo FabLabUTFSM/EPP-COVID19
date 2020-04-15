@@ -1,7 +1,7 @@
 # EPP-COVID19
 
 [Fab Lab UTFSM](http://fablab.usm.cl/) ha estado trabajando en la fabricación de equipamiento de seguridad personal para funcionarios de centros de salud.
-Actualmente se están produciendo 400 escudos faciales diarios, con la posibilidad de ampliar a 400 y se han realizado entregar al [Hospital de Maipú](http://www.hospitalelcarmen.cl/hec/), [CESFAM](http://www.laguiadesantiagodechile.com/du/358-la-pincoya-cesfam) y ELEAM de La Pincoya y el [Hospital Clínico de la Universidad de Chile](https://www.redclinica.cl/). 
+Actualmente se están produciendo 200 escudos faciales diarios, con la posibilidad de ampliar a 400 y se han realizado entregar al [Hospital de Maipú](http://www.hospitalelcarmen.cl/hec/), [CESFAM](http://www.laguiadesantiagodechile.com/du/358-la-pincoya-cesfam) y ELEAM de La Pincoya y el [Hospital Clínico de la Universidad de Chile](https://www.redclinica.cl/). 
 
 
 <img src="Imagenes/muestra.jpeg"  >
