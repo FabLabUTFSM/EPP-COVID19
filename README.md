@@ -42,6 +42,11 @@ Se han desarrollado dos modelos con el fin de poder trabajar de forma paralela c
     <td>Induacril</td>
     <td>ventas@induacril.cl</td>
 </tr>
+<tr>
+    <td>Alcohol Isopopilico</td>
+    <td>Dideval</td>
+    <td>info@dideval.cl</td>
+</tr>
 </table>  
 
 ### Impresión 3D
