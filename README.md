@@ -1,6 +1,6 @@
 # EPP-COVID19
 
-Fab Lab UTFSM ha estado trabajando en la fabricación de equipamiento de seguridad personal para funcionarios de centros de salud.
+[Fab Lab UTFSM](http://fablab.usm.cl/) ha estado trabajando en la fabricación de equipamiento de seguridad personal para funcionarios de centros de salud.
 Actualmente se están produciendo 200 escudos faciales diarios, con la posibilidad de ampliar a 400 y se han realizado entregar al [Hospital de Maipú](http://www.hospitalelcarmen.cl/hec/), [CESFAM](http://www.laguiadesantiagodechile.com/du/358-la-pincoya-cesfam) y ELEAM de La Pincoya y el [Hospital Clínico de la Universidad de Chile](https://www.redclinica.cl/). 
 
 
@@ -51,6 +51,8 @@ Se han desarrollado dos modelos con el fin de poder trabajar de forma paralela c
 
 ### Impresión 3D
 
+<img src="Imagenes/torre3D_2.jpeg"  height="400" > 
+
 Este modelo esta basado en el trabajo de [Prusa](https://www.prusaprinters.org/prints/25857-prusa-face-shield), y fue modificado por [Javier de la Cerda](https://www.instagram.com/javier.mkr/). 
 
 La principal ventaja de la impresion 3D es que se pueden imprimir 30 piezas a la vez, entregando una mayor independencia a las personas que trabajan en la contruccion de las mascaras, sin embargo, son mas lentas que producir que las cortadas en laser. 
@@ -64,7 +66,7 @@ Todos los Gcodes estan fueron hechos para una [Ultimaker 3 Extendend](https://ul
 
 En caso de que el usario no tenga la misma maquina, se entregan los archivos .stl para que el usuario pueda contruir sus propios Gcode, a continuacion se presentan los parametros claves. 
 
-<img src="Imagenes/torre3D_2.jpeg"  height="400" >  
+ 
 
 ##### Parametros claves
 
@@ -96,9 +98,11 @@ En caso de que el usario no tenga la misma maquina, se entregan los archivos .st
 
 ### Corte Laser
 
+<img src="Imagenes/CorteLaser.jpeg"  height="400" > 
+
 Con el fin de poder tener modelos mas rapidamente al momento es que [Javier de la Cerda](https://www.instagram.com/javier.mkr/) y [Octavio Jaques](https://www.instagram.com/octaviojaques/), desarrollaron archivos vectoriales reduciendo los tiempos de fabricacion por pieza de 1 hora por pieza a 1.5 minutos.  
 
-En esta maquina se cortan 2 piezas, utilizadas tanto en los escudos faciales fabricados mediante impresion 3D y corte laser:
+En esta maquina se cortan 2 piezas, el cintillo y la barbilla, estas son utilizadas tanto en los escudos faciales fabricados mediante impresion 3D y corte laser:
 
 - Cintillo:  
 <img src="Imagenes/cintillo.jpeg"  height="300" >
@@ -109,8 +113,20 @@ En esta maquina se cortan 2 piezas, utilizadas tanto en los escudos faciales fab
 
 
 
-En la carpeta [Archivos Corte Laser](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivo%20Corte%20Laser) se encontraran modelos vectoriales para realizar cortes que van desde 
+En la carpeta [Archivos Corte Laser](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivo%20Corte%20Laser) se encontraran archivos vectoriales 
+para ambos modelos, y distribuciones para las maquinas presentes en Fab Lab UTFSM [Bodor](https://www.novakon.net/products/bcl-1309x-laser-cutting-engraving-machine) y [GCC X252](https://www.gccworld.com/goods.php?act=view&no=24). 
 
-<img src="Imagenes/CorteLaser.jpeg"  height="400" > 
+#### Parametros claves de fabricacion
 
-Aqui le enseñare a Javier y a la Pía a documentar, así le pierde el miedo a la programación y el lab se pone mas pro jajaja
+<table>
+  <tr>
+    <td>Bodor</td>
+  </tr>
+<tr>
+     <td> Potencia </td>
+    <td> 70 </td>
+</tr>
+  <tr>
+     <td> Velocidad </td>
+    <td> 20 </td>
+</table> 
