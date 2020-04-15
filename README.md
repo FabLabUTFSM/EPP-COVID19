@@ -4,12 +4,11 @@
 Actualmente se están produciendo 200 escudos faciales diarios, con la posibilidad de ampliar a 400 y se han realizado entregar al [Hospital de Maipú](http://www.hospitalelcarmen.cl/hec/), [CESFAM](http://www.laguiadesantiagodechile.com/du/358-la-pincoya-cesfam) y ELEAM de La Pincoya y el [Hospital Clínico de la Universidad de Chile](https://www.redclinica.cl/). 
 
 
-<img src="Imagenes/muestra.jpeg"  height="200" >
+<img src="Imagenes/muestra.jpeg"  >
 
 ## Modelos desarrollados
 
-Se han desarrollado dos modelos con el fin de poder trabajar de forma paralela con las maquinas de impresion 3D y corte laser; actualmente se esta trabajando en la incorporacion de la CNC Router, inspirados en el proyecto del [Center of Bits and Atoms](https://gitlab.cba.mit.edu/alfonso/fabshield). 
-
+Se han desarrollado dos modelos con el fin de poder trabajar de forma paralela con las maquinas de impresion 3D y corte laser; actualmente se esta trabajando en la incorporacion de la CNC Router.
 ### Mapa de procesos
 
 <img src="Imagenes/proceso.PNG" >
