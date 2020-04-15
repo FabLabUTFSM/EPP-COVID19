@@ -12,7 +12,7 @@ Se han desarrollado dos modelos con el fin de poder trabajar de forma paralela c
 
 ### Mapa de procesos
 
-<img src="Imagenes/proceso.PNG"  height="200" >
+<img src="Imagenes/proceso.PNG"  height="300">
 
 #### Materiales
 
