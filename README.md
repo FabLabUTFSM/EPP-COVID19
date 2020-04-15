@@ -138,4 +138,4 @@ para ambos modelos, y distribuciones para las maquinas presentes en Fab Lab UTFS
 | Potencia   | 80    |
 | Velocidad   | 20    |
 
-*Importante*: Todos estos archivos fueron desarrollados para planchas de acrilico con un espesor de 5 mm. 
+**Importante**: Todos estos archivos fueron desarrollados para planchas de acrilico con un espesor de 5 mm. 
