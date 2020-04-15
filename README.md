@@ -58,7 +58,7 @@ La principal ventaja de la impresión 3D es que se pueden imprimir 30 piezas a l
 
 Todos los GCode están fueron hechos para una [Ultimaker 3 Extendend](https://ultimaker.com/download/21471/Ultimaker%203%20Extended%20specification%20sheet.pdf) y pueden ser encontrados en la carpeta [Impresión 3D](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivos%20Impresion%203D), donde archivos para imprimir desde 1 a 30 unidades, con tiempos de impresión que van desde 1 a 30 horas.
 
-<img src="Imagenes/Imp3D.jpeg"  width="400" > 
+<img src="Imagenes/Imp3D.jpg"  width="400" > 
 
 
 #### Fabricación
@@ -115,7 +115,7 @@ En esta máquina se cortan 2 piezas, el cintillo y la barbilla, estas son utiliz
 
 El objetivo es optimizar el uso de material, distribuyendo las piezas a cortar de forma tal que la perdida de material sea lo minimo posible.   
 
-<img src="Imagenes/CorteLaser_2.png " >
+<img src="Imagenes/CorteLaser_2.jpg " >
 
 Estos archivos se pueden encontrar en la carpeta [Archivos Corte Laser](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivo%20Corte%20Laser) se encontrarán archivos vectoriales 
 para ambos modelos, y distribuciones para las maquinas presentes en Fab Lab UTFSM [Bodor](https://www.novakon.net/products/bcl-1309x-laser-cutting-engraving-machine) y [GCC X252](https://www.gccworld.com/goods.php?act=view&no=24). 
