@@ -24,7 +24,7 @@ Este modelo esta basado en el trabajo de [Prusa](https://www.prusaprinters.org/p
 
 Actualmente existen dos metodos de fabricacion; 1 pieza a la vez, o en torres:
 
-<img src="Imagenes/torre3D_2.jpeg"  height="400" >  <img src="Imagenes/Imp3D_3.jpeg"  width="200" >  
+<img src="Imagenes/torre3D_2.jpeg"  height="300" >  <img src="Imagenes/Imp3D_3.jpeg"  height ="300" >  
 
 Estos modelos se pueden encontrar en la carpeta [impresion 3D](lala) en este mismo repositorio. Existen dos formas de 
 
