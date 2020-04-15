@@ -65,7 +65,7 @@ Todos los GCode están fueron hechos para una [Ultimaker 3 Extendend](https://ul
 
 En caso de que el usuario no tenga la misma máquina, se entregan los archivos .stl para que el usuario pueda construir sus propios GCode, a continuación, se presentan los parámetros claves. 
 
- 
+ <img src="Imagenes/Slicer.PNG"  width="400" > 
 
 ##### Parámetros claves
 
