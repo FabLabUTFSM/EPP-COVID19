@@ -62,14 +62,6 @@ Todos los Gcodes estan fueron hechos para una [Ultimaker 3 Extendend](https://ul
 
 #### Fabricación
 
-
-
-Se recomienda la fabricacion por torres (ver imagen), con el fin de poder hacer el proceso mas eficiente. En la carpeta [Impresion 3D](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivos%20Impresion%203D) encontraras los gcode para hacer torres que can desde 1 a 40 unidades, con tiempos de impresion que van desde 1 a 30 horas. 
-
-<img src="Imagenes/torre3D_2.jpeg"  height="400" >  
-
-En caso de que el usuario tenga otra maquina, en la misma carpeta podran encontrar los .stl para generar sus propios gcode.   
-
 ##### Parametros claves
 
 <table>
@@ -94,6 +86,9 @@ En caso de que el usuario tenga otra maquina, en la misma carpeta podran encontr
     <td>off</td>
 </tr>
 </table> 
+
+
+<img src="Imagenes/torre3D_2.jpeg"  height="400" >  
 
 ### Corte Laser
 
