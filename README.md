@@ -57,7 +57,7 @@ Este modelo está basado en el trabajo de [Prusa](https://www.prusaprinters.org/
 
 La principal ventaja de la impresión 3D es que se pueden imprimir 30 piezas a la vez, entregando una mayor independencia a las personas que trabajan en la construcción de las máscaras, sin embargo, son más lentas que producir que las cortadas en laser. 
 
-Todos los GCode están fueron hechos para una [Ultimaker 3 Extendend](https://ultimaker.com/download/21471/Ultimaker%203%20Extended%20specification%20sheet.pdf) y pueden ser encontrados en la carpeta [Impresión 3D](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivos%20Impresion%203D), donde archivos para imprimir desde 1 a 30 unidades, con tiempos de impresión que van desde 1 a 30 horas.
+Todos los GCode fueron hechos para una [Ultimaker 3 Extendend](https://ultimaker.com/download/21471/Ultimaker%203%20Extended%20specification%20sheet.pdf) y pueden ser encontrados en la carpeta [Impresión 3D](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivos%20Impresion%203D), donde archivos para imprimir desde 1 a 30 unidades, con tiempos de impresión que van desde 1 a 30 horas.
 
 
 #### Fabricación
@@ -89,6 +89,14 @@ En caso de que el usuario no tenga la misma máquina, se entregan los archivos .
     <td>Brim </td>
     <td>off</td>
 </tr>
+<tr>
+    <td>Temperatura </td>
+    <td> 215 </td>
+</tr>
+<tr>
+    <td> Material </td>
+    <td> PLA </td>
+</tr>
 </table> 
 
 
@@ -96,7 +104,7 @@ En caso de que el usuario no tenga la misma máquina, se entregan los archivos .
 
 ### Corte Laser
 
-Con el fin de poder tener modelos más rápidamente al momento es que [Javier de la Cerda](https://www.instagram.com/javier.mkr/) y [Octavio Jaques](https://www.instagram.com/octaviojaques/), desarrollaron archivos vectoriales reduciendo los tiempos de fabricación por pieza de 1 hora por pieza a 1.5 minutos.  
+Con el fin de poder tener modelos más rápidamente al momento es que [Javier de la Cerda](https://www.instagram.com/javier.mkr/), [José Santibañez](https://www.instagram.com/jsantibanezp/) y [Octavio Jaques](https://www.instagram.com/octaviojaques/), desarrollaron archivos vectoriales reduciendo los tiempos de fabricación por pieza de 1 hora por pieza a 1.5 minutos.  
 
 En esta máquina se cortan 2 piezas, el cintillo y la barbilla, estas son utilizadas tanto en los escudos faciales fabricados mediante impresión 3D y corte laser:
 
