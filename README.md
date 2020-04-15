@@ -132,7 +132,7 @@ para ambos modelos, y distribuciones para las maquinas presentes en Fab Lab UTFS
 </table> 
 
 
-|Bodor | 
+|Bodor | |
 |-----|----|
 | Potencia   | 80    |
 | Velocidad   | 20    |
