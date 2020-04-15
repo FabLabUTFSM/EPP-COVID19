@@ -54,14 +54,14 @@ Se han desarrollado dos modelos con el fin de poder trabajar de forma paralela c
 Este modelo esta basado en el trabajo de [Prusa](https://www.prusaprinters.org/prints/25857-prusa-face-shield), y fue modificado por [Javier de la Cerda](https://www.instagram.com/javier.mkr/). En la carpeta [Impresion 3D](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivos%20Impresion%203D) se entregan los Gcodes para trabajar desde 1 a 50 unidades en una [Ultimaker 3 Extendend](https://ultimaker.com/download/21471/Ultimaker%203%20Extended%20specification%20sheet.pdf), ademas se puede descargar los archivos .stl para poder desarrollar sus propios Gcode. 
 
 
-<img src="Imagenes/Imp3D.jpeg"  height="200" > 
+<img src="Imagenes/Imp3D.jpeg"  height="400" > 
 
 
 #### Fabricación
 
 Actualmente existen dos metodos de fabricacion; 1 pieza a la vez, o en torres de 30 piezas que duran 24 horas de impresion:
 
-<img src="Imagenes/torre3D_2.jpeg"  height="200" >    
+<img src="Imagenes/torre3D_2.jpeg"  height="400" >    
 
 Estos modelos se pueden encontrar en la carpeta [impresion 3D](lala) en este mismo repositorio. Existen dos formas de 
 
@@ -69,6 +69,6 @@ Estos modelos se pueden encontrar en la carpeta [impresion 3D](lala) en este mis
 
 Este modelo fue desarrollado por  [Javier de la Cerda](https://www.instagram.com/javier.mkr/) y [Octavio Jaques](https://www.instagram.com/octaviojaques/). 
 
-<img src="Imagenes/CorteLaser.jpeg"  height="200" > 
+<img src="Imagenes/CorteLaser.jpeg"  height="400" > 
 
 Aqui le enseñare a Javier y a la Pía a documentar, así le pierde el miedo a la programación y el lab se pone mas pro jajaja
