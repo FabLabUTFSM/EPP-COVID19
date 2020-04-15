@@ -20,9 +20,31 @@ Este modelo esta basado en el trabajo de [Prusa](https://www.prusaprinters.org/p
 
 <img src="Imagenes/Imp3D.jpeg"  height="400" > <img src="Imagenes/Imp3D_2.jpeg"  height="400" > 
 
+#### Materiales
+
+<table>
+  <caption>Attiny 44 Memories</caption>
+  <tr>
+    <td>Memory Type</td>
+    <td>Space</td>
+  </tr>
+<tr>
+     <td>Flash</td>
+    <td>4K</td>
+</tr>
+  <tr>
+     <td>SRAM Data Memory</td>
+    <td>256</td>
+</tr>
+<tr>
+    <td>EEPROM</td>
+    <td>256</td>
+</tr>
+</table> 
+
 #### Fabricación
 
-Actualmente existen dos metodos de fabricacion; 1 pieza a la vez, o en torres:
+Actualmente existen dos metodos de fabricacion; 1 pieza a la vez, o en torres de 30 piezas que duran 24 horas de impresion:
 
 <img src="Imagenes/torre3D_2.jpeg"  height="300" >  <img src="Imagenes/Imp3D_3.jpeg"  height ="300" >  
 
