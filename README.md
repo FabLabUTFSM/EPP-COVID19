@@ -96,8 +96,15 @@ En caso de que el usario no tenga la misma maquina, se entregan los archivos .st
 
 ### Corte Laser
 
-Con el fin de poder tener modelos mas rapidamente al momento es que [Javier de la Cerda](https://www.instagram.com/javier.mkr/) y [Octavio Jaques](https://www.instagram.com/octaviojaques/), desarrollaron archivos vectorialereduciendo los tiempos de fabricacion por pieza de 1 hora por pieza a 1.5 minutos.  
+Con el fin de poder tener modelos mas rapidamente al momento es que [Javier de la Cerda](https://www.instagram.com/javier.mkr/) y [Octavio Jaques](https://www.instagram.com/octaviojaques/), desarrollaron archivos vectoriales reduciendo los tiempos de fabricacion por pieza de 1 hora por pieza a 1.5 minutos.  
 
+En esta maquina se cortan 2 piezas, utilizadas tanto en los escudos faciales fabricados mediante impresion 3D y corte laser:
+
+- Cintillo:  
+<img src="Imagenes/cintillo.jpeg"  height="400" > 
+
+
+En la carpeta [Archivos Corte Laser](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivo%20Corte%20Laser) se encontraran modelos vectoriales para realizar cortes que van desde 
 
 <img src="Imagenes/CorteLaser.jpeg"  height="400" > 
 
