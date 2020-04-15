@@ -11,7 +11,7 @@ Actualmente se están produciendo 200 escudos faciales diarios, con la posibilid
 Se han desarrollado dos modelos con el fin de poder trabajar de forma paralela con las máquinas de impresión 3D y corte laser; actualmente se está trabajando en la incorporación de la CNC Router.
 ### Mapa de procesos
 
-<img src="Imagenes/proceso.PNG" >
+<img src="Imagenes/proceso.jpeg" >
 
 #### Materiales
 
@@ -113,9 +113,11 @@ En esta máquina se cortan 2 piezas, el cintillo y la barbilla, estas son utiliz
 
 #### Fabricación
 
+El objetivo es optimizar el uso de material, distribuyendo las piezas a cortar de forma tal que la perdida de material sea lo minimo posible.   
+
 <img src="Imagenes/CorteLaser_2.png "  width="400" >
 
-En la carpeta [Archivos Corte Laser](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivo%20Corte%20Laser) se encontrarán archivos vectoriales 
+Estos archivos se pueden encontrar en la carpeta [Archivos Corte Laser](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivo%20Corte%20Laser) se encontrarán archivos vectoriales 
 para ambos modelos, y distribuciones para las maquinas presentes en Fab Lab UTFSM [Bodor](https://www.novakon.net/products/bcl-1309x-laser-cutting-engraving-machine) y [GCC X252](https://www.gccworld.com/goods.php?act=view&no=24). 
 
 #### Parámetros claves de fabricación
