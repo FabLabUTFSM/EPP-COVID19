@@ -12,13 +12,7 @@ Se han desarrollado dos modelos con el fin de poder trabajar de forma paralela c
 
 ### Mapa de procesos
 
-<img src="Imagenes/proceso.PNG"  height="400" > 
-
-### Impresión 3D
-
-Este modelo esta basado en el trabajo de [Prusa](https://www.prusaprinters.org/prints/25857-prusa-face-shield), y fue modificado por [Javier de la Cerda](https://www.instagram.com/javier.mkr/). 
-
-<img src="Imagenes/Imp3D.jpeg"  height="400" > <img src="Imagenes/Imp3D_2.jpeg"  height="400" > 
+<img src="Imagenes/proceso.PNG"  height="400" >
 
 #### Materiales
 
@@ -43,7 +37,19 @@ Este modelo esta basado en el trabajo de [Prusa](https://www.prusaprinters.org/p
     <td>La Paloma</td>
     <td>+562 28492405</td>
 </tr>
-</table> 
+<tr>
+    <td>Acrilico</td>
+    <td>Induacril</td>
+    <td>ventas@induacril.cl</td>
+</tr>
+</table>  
+
+### Impresión 3D
+
+Este modelo esta basado en el trabajo de [Prusa](https://www.prusaprinters.org/prints/25857-prusa-face-shield), y fue modificado por [Javier de la Cerda](https://www.instagram.com/javier.mkr/). 
+
+<img src="Imagenes/Imp3D.jpeg"  height="400" > <img src="Imagenes/Imp3D_2.jpeg"  height="400" > 
+
 
 #### Fabricación
 
