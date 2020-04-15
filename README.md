@@ -4,7 +4,7 @@ Fab Lab UTFSM ha estado trabajando en la fabricación de equipamiento de segurid
 Actualmente se están produciendo 200 escudos faciales diarios, con la posibilidad de ampliar a 400 y se han realizado entregar al [Hospital de Maipú](http://www.hospitalelcarmen.cl/hec/), [CESFAM](http://www.laguiadesantiagodechile.com/du/358-la-pincoya-cesfam) y ELEAM de La Pincoya y el [Hospital Clínico de la Universidad de Chile](https://www.redclinica.cl/). 
 
 
-<img src="Imagenes/muestra.jpeg"  height="400" >
+<img src="Imagenes/muestra.jpeg"  height="200" >
 
 ## Modelos desarrollados
 
@@ -51,7 +51,8 @@ Se han desarrollado dos modelos con el fin de poder trabajar de forma paralela c
 
 ### Impresión 3D
 
-Este modelo esta basado en el trabajo de [Prusa](https://www.prusaprinters.org/prints/25857-prusa-face-shield), y fue modificado por [Javier de la Cerda](https://www.instagram.com/javier.mkr/). 
+Este modelo esta basado en el trabajo de [Prusa](https://www.prusaprinters.org/prints/25857-prusa-face-shield), y fue modificado por [Javier de la Cerda](https://www.instagram.com/javier.mkr/). En la carpeta [Impresion 3D](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivos%20Impresion%203D) se entregan los Gcodes para trabajar desde 1 a 50 unidades en una [Ultimaker 3 Extendend](https://ultimaker.com/download/21471/Ultimaker%203%20Extended%20specification%20sheet.pdf), ademas se puede descargar los archivos .stl para poder desarrollar sus propios Gcode. 
+
 
 <img src="Imagenes/Imp3D.jpeg"  height="400" > <img src="Imagenes/Imp3D_2.jpeg"  height="400" > 
 
