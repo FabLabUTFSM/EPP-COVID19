@@ -101,7 +101,12 @@ Con el fin de poder tener modelos mas rapidamente al momento es que [Javier de l
 En esta maquina se cortan 2 piezas, utilizadas tanto en los escudos faciales fabricados mediante impresion 3D y corte laser:
 
 - Cintillo:  
-<img src="Imagenes/cintillo.jpeg"  height="400" > 
+<img src="Imagenes/cintillo.jpeg"  height="300" >
+
+- Barbilla: 
+
+<img src="Imagenes/barbilla.jpg "  height="300" >
+
 
 
 En la carpeta [Archivos Corte Laser](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivo%20Corte%20Laser) se encontraran modelos vectoriales para realizar cortes que van desde 
