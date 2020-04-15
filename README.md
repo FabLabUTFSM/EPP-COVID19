@@ -51,7 +51,7 @@ Se han desarrollado dos modelos con el fin de poder trabajar de forma paralela c
 
 ### Impresión 3D
 
-<img src="Imagenes/torre3D_2.jpeg"  width="400" > 
+<img src="Imagenes/torre3D_2.jpeg"  width="600" > 
 
 Este modelo está basado en el trabajo de [Prusa](https://www.prusaprinters.org/prints/25857-prusa-face-shield), y fue modificado por [Javier de la Cerda](https://www.instagram.com/javier.mkr/). 
 
@@ -64,7 +64,7 @@ Todos los GCode están fueron hechos para una [Ultimaker 3 Extendend](https://ul
 
 En caso de que el usuario no tenga la misma máquina, se entregan los archivos .stl para que el usuario pueda construir sus propios GCode, a continuación, se presentan los parámetros claves. 
 
- <img src="Imagenes/slicer.jpeg"  width="400" > 
+ <img src="Imagenes/slicer.jpeg"  width="600" > 
 
 ##### Parámetros claves
 
@@ -101,11 +101,11 @@ Con el fin de poder tener modelos más rápidamente al momento es que [Javier de
 En esta máquina se cortan 2 piezas, el cintillo y la barbilla, estas son utilizadas tanto en los escudos faciales fabricados mediante impresión 3D y corte laser:
 
 - Cintillo:  
-<img src="Imagenes/cintillo.jpeg"  width="400" >
+<img src="Imagenes/cintillo.jpeg"  width="600" >
 
 - Barbilla: 
 
-<img src="Imagenes/barbilla.jpg "  width="400" >
+<img src="Imagenes/barbilla.jpg "  width="600" >
 
 
 #### Fabricación
