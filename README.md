@@ -12,7 +12,7 @@ Se han desarrollado dos modelos con el fin de poder trabajar de forma paralela c
 
 ### Mapa de procesos
 
-<img src="Imagenes/procesos.jpeg"  height="400" > 
+<img src="Imagenes/procesos.PNG"  height="400" > 
 
 ### Impresión 3D
 
