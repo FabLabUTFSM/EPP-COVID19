@@ -120,7 +120,7 @@ para ambos modelos, y distribuciones para las maquinas presentes en Fab Lab UTFS
 <table>
   <tr>
     <td>Bodor</td>
-    <td>Bodor</td>
+    <td></td>
   </tr>
 <tr>
      <td> Potencia </td>
