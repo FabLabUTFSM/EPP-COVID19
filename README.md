@@ -62,7 +62,9 @@ Todos los Gcodes estan fueron hechos para una [Ultimaker 3 Extendend](https://ul
 
 #### Fabricación
 
-En caso de que el usario no tenga la misma maquina, se entregan los archivos .stl para que el usuario pueda contruir sus propios Gcode, a continuacion se presentan los parametros calves. 
+En caso de que el usario no tenga la misma maquina, se entregan los archivos .stl para que el usuario pueda contruir sus propios Gcode, a continuacion se presentan los parametros claves. 
+
+<img src="Imagenes/torre3D_2.jpeg"  height="400" >  
 
 ##### Parametros claves
 
@@ -90,11 +92,12 @@ En caso de que el usario no tenga la misma maquina, se entregan los archivos .st
 </table> 
 
 
-<img src="Imagenes/torre3D_2.jpeg"  height="400" >  
+
 
 ### Corte Laser
 
-Este modelo fue desarrollado por  [Javier de la Cerda](https://www.instagram.com/javier.mkr/) y [Octavio Jaques](https://www.instagram.com/octaviojaques/). 
+Con el fin de poder tener modelos mas rapidamente al momento es que [Javier de la Cerda](https://www.instagram.com/javier.mkr/) y [Octavio Jaques](https://www.instagram.com/octaviojaques/), desarrollaron archivos vectorialereduciendo los tiempos de fabricacion por pieza de 1 hora por pieza a 1.5 minutos.  
+
 
 <img src="Imagenes/CorteLaser.jpeg"  height="400" > 
 
