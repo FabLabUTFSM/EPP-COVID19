@@ -51,8 +51,11 @@ Se han desarrollado dos modelos con el fin de poder trabajar de forma paralela c
 
 ### Impresión 3D
 
-Este modelo esta basado en el trabajo de [Prusa](https://www.prusaprinters.org/prints/25857-prusa-face-shield), y fue modificado por [Javier de la Cerda](https://www.instagram.com/javier.mkr/). En la carpeta [Impresion 3D](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivos%20Impresion%203D) se entregan los Gcodes para trabajar desde 1 a 50 unidades en una [Ultimaker 3 Extendend](https://ultimaker.com/download/21471/Ultimaker%203%20Extended%20specification%20sheet.pdf), ademas se puede descargar los archivos .stl para poder desarrollar sus propios Gcode. 
+Este modelo esta basado en el trabajo de [Prusa](https://www.prusaprinters.org/prints/25857-prusa-face-shield), y fue modificado por [Javier de la Cerda](https://www.instagram.com/javier.mkr/). 
 
+La principal ventaja de la impresion 3D es que se pueden imprimir 30 piezas a la vez, entregando una mayor independencia a las personas que trabajan en la contruccion de las mascaras, sin embargo, son mas lentas que producir que las cortadas en laser. 
+
+Todos los Gcodes estan fueron hechos para una [Ultimaker 3 Extendend](https://ultimaker.com/download/21471/Ultimaker%203%20Extended%20specification%20sheet.pdf) y pueden ser encontrados en la carpeta [Impresion 3D](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivos%20Impresion%203D), donde archivos para imprimir desde 1 a 30 unidades, con tiempos de impresion que van desde 1 a 30 horas.
 
 <img src="Imagenes/Imp3D.jpeg"  height="400" > 
 
@@ -83,8 +86,8 @@ En caso de que el usuario tenga otra maquina, en la misma carpeta podran encontr
     <td>4</td>
 </tr>
 <tr>
-    <td>Velocidad de impresión</td>
-    <td>80 [mm/s]</td>
+    <td>Velocidad de impresión [mm/s]</td>
+    <td>80 </td>
 </tr>
 <tr>
     <td>Brim </td>
