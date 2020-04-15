@@ -4,7 +4,8 @@
 Actualmente se están produciendo 200 escudos faciales diarios, con la posibilidad de ampliar a 400 y se han realizado entregar al [Hospital de Maipú](http://www.hospitalelcarmen.cl/hec/), [CESFAM](http://www.laguiadesantiagodechile.com/du/358-la-pincoya-cesfam) y ELEAM de La Pincoya y el [Hospital Clínico de la Universidad de Chile](https://www.redclinica.cl/). 
 
 
-<img src="Imagenes/muestra.jpeg"  >
+<img src="Imagenes/collage.jpeg"  > 
+
 
 ## Modelos desarrollados
 
@@ -58,8 +59,6 @@ La principal ventaja de la impresión 3D es que se pueden imprimir 30 piezas a l
 
 Todos los GCode están fueron hechos para una [Ultimaker 3 Extendend](https://ultimaker.com/download/21471/Ultimaker%203%20Extended%20specification%20sheet.pdf) y pueden ser encontrados en la carpeta [Impresión 3D](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivos%20Impresion%203D), donde archivos para imprimir desde 1 a 30 unidades, con tiempos de impresión que van desde 1 a 30 horas.
 
-<img src="Imagenes/Imp3D.jpg"  width="400" > 
-
 
 #### Fabricación
 
@@ -96,8 +95,6 @@ En caso de que el usuario no tenga la misma máquina, se entregan los archivos .
 
 
 ### Corte Laser
-
-<img src="Imagenes/CorteLaser_2.jpg"  width="400" > 
 
 Con el fin de poder tener modelos más rápidamente al momento es que [Javier de la Cerda](https://www.instagram.com/javier.mkr/) y [Octavio Jaques](https://www.instagram.com/octaviojaques/), desarrollaron archivos vectoriales reduciendo los tiempos de fabricación por pieza de 1 hora por pieza a 1.5 minutos.  
 
