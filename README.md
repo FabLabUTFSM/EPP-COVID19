@@ -12,7 +12,7 @@ Se han desarrollado dos modelos con el fin de poder trabajar de forma paralela c
 
 ### Mapa de procesos
 
-<img src="Imagenes/proceso.PNG"  height="350">
+<img src="Imagenes/proceso.PNG" >
 
 #### Materiales
 
@@ -133,9 +133,6 @@ para ambos modelos, y distribuciones para las maquinas presentes en Fab Lab UTFS
 </table> 
 
 
-|Bodor | |
-|-----|----|
-| Potencia   | 80    |
-| Velocidad   | 20    |
-
 **Importante**: Todos estos archivos fueron desarrollados para planchas de acrilico con un espesor de 5 mm. 
+
+## Ensamble
