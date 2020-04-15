@@ -23,22 +23,25 @@ Este modelo esta basado en el trabajo de [Prusa](https://www.prusaprinters.org/p
 #### Materiales
 
 <table>
-  <caption>Attiny 44 Memories</caption>
   <tr>
-    <td>Memory Type</td>
-    <td>Space</td>
+    <td>Material</td>
+    <td>Proveedor</td>
+    <td>Contacto</td>
   </tr>
 <tr>
-     <td>Flash</td>
-    <td>4K</td>
+     <td>Filamento 3D</td>
+    <td>Imperio 3D</td>
+    <td>https://imperio3d.com/</td>
 </tr>
   <tr>
-     <td>SRAM Data Memory</td>
-    <td>256</td>
+     <td>Mica</td>
+    <td>La Economica</td>
+    <td>+562 281543311</td>
 </tr>
 <tr>
-    <td>EEPROM</td>
-    <td>256</td>
+    <td>Elastico</td>
+    <td>La Paloma</td>
+    <td>+562 28492405</td>
 </tr>
 </table> 
 
