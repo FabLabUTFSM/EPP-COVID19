@@ -111,6 +111,9 @@ En esta máquina se cortan 2 piezas, el cintillo y la barbilla, estas son utiliz
 <img src="Imagenes/barbilla.jpg "  width="400" >
 
 
+#### Fabricación
+
+<img src="Imagenes/CorteLaser_2.png "  width="400" >
 
 En la carpeta [Archivos Corte Laser](https://github.com/FabLabUTFSM/EPP-COVID19/tree/master/Archivo%20Corte%20Laser) se encontrarán archivos vectoriales 
 para ambos modelos, y distribuciones para las maquinas presentes en Fab Lab UTFSM [Bodor](https://www.novakon.net/products/bcl-1309x-laser-cutting-engraving-machine) y [GCC X252](https://www.gccworld.com/goods.php?act=view&no=24). 
